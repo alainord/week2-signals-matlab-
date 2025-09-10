@@ -31,4 +31,4 @@ These signals are commonly used in signal processing and system analysis.
 ![Signum Signal](images/Signum.png)
 
 ### Sinc Signal
-![Sinc Signal](images/sinc_signal.png)
+![Sinc Signal](images/Sinc.png)
