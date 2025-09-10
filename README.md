@@ -12,3 +12,23 @@ This project demonstrates the generation and plotting of basic signals in MATLAB
 - **Sinc Signal**: A sinc function, defined as `sinc(t) = sin(pi*t)/(pi*t)` in MATLAB.
 
 These signals are commonly used in signal processing and system analysis.
+
+## Sample Plots
+
+### Unit Impulse
+![Unit Impulse](/images/Unit_Impulse.png)
+
+### Unit Step
+![Unit Step](images/Unit_Step.png)
+
+### Unit Ramp
+![Unit Ramp](images/Unit_Ramp.png)
+
+### Exponential Signal
+![Exponential Signal](images/Exponential.png)
+
+### Signum Signal
+![Signum Signal](images/Signum.png)
+
+### Sinc Signal
+![Sinc Signal](images/sinc_signal.png)
